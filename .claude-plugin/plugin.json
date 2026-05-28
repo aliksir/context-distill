@@ -1,0 +1,13 @@
+{
+  "name": "context-distill",
+  "version": "1.0.0",
+  "description": "Distill session context into structured YAML snapshots for AI-to-AI knowledge transfer across sessions. Captures key decisions, failures, recovery steps, and reusable patterns in a machine-parseable format.",
+  "author": {
+    "name": "aliksir",
+    "url": "https://github.com/aliksir"
+  },
+  "homepage": "https://github.com/aliksir/context-distill#readme",
+  "repository": "https://github.com/aliksir/context-distill",
+  "license": "MIT",
+  "keywords": ["claude", "claude-code", "context", "memory", "session", "snapshot", "yaml", "knowledge-transfer", "distillation"]
+}
