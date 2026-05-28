@@ -1,5 +1,7 @@
 # context-distill — Session Context Distillation for Claude Code
 
+**[日本語版 README はこちら](README.ja.md)**
+
 Distill session context into structured YAML snapshots for AI-to-AI knowledge transfer across Claude Code sessions.
 
 ## What It Does
